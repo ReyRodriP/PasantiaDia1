@@ -1,8 +1,8 @@
 public class Git{
          
     public static void main(String[] args){
-        String Message = "Esta es una prueba de git, se trata de la prueba ";
-        byte Num = 2;
+        String Message = "Esto es una prueba para ver el cambio de proyecto";
+        byte Num = 3;
         System.out.println(Message+Num);
     }
 }
